@@ -1,0 +1,5 @@
+---------------------------
+End User License Agreement:
+---------------------------
+
+This software is a closed-source project, except 
