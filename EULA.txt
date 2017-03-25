@@ -2,4 +2,7 @@
 End User License Agreement:
 ---------------------------
 
-This software is a closed-source project, except 
+This software is a closed-source project, except for the limited features contained in this repository. No redistribution is
+allowed. Modification is permitted, but redistribution of these modifications is not permitable. This repository contains a
+closed-source core alongside open-source developments (nightly builds / alpha versions). All modifications must cite Thomas
+Beatty as an author.
